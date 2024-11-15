@@ -1,0 +1,13 @@
+name = "BHI"
+uuid = "860d00b6-689d-4650-a0b3-b0c03754756f"
+authors = ["Christos Mermigkas", "Giorgos Vretinaris"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
