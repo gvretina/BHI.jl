@@ -3,6 +3,27 @@ uuid = "860d00b6-689d-4650-a0b3-b0c03754756f"
 authors = ["Christos Mermigkas", "Giorgos Vretinaris"]
 version = "1.0.0-DEV"
 
+[deps]
+Colors = "5ae59095-9a9b-59fe-a467-6f913c188581"
+DiffEqCallbacks = "459566f4-90b8-5000-8ac3-15dfb0a30def"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+GeometryBasics = "5c1252a2-5f33-56bf-86c9-59e7332b4326"
+ImageView = "86fae568-95e7-573e-a6b2-d8a6b900c9ef"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+IterTools = "c8e1da08-722c-5040-9ed9-7db0dc04731e"
+LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
+LazyArrays = "5078a376-72f3-5289-bfd5-ec5146d43c02"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+MutableNamedTuples = "af6c499f-54b4-48cc-bbd2-094bba7533c7"
+OhMyThreads = "67456a42-1dca-4109-a031-0a68de7e3ad5"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+Rotations = "6038ab10-8711-5258-84ad-4b1120ba62dc"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+TerminalLoggers = "5d786b92-1e48-4d6f-9151-6b4477ca9bed"
+
 [compat]
 julia = "1.10"
 
